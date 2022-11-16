@@ -1,6 +1,3 @@
-ООП в JavaScript
+ООП в JavaScript/n
 
-<!---
-Senn0/Senn0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+16/11/2022 - с 1 по 24
